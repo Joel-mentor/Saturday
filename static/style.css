@@ -1,0 +1,39 @@
+#Welcome{
+    color: red;
+    background-color: blue;
+    text-align: center;
+    font-size: 50px;
+    border-style: solid;
+    border-color: goldenrod;border-radius: 20px;
+    padding: 20px;
+
+}
+.Main{
+    background-image: url(../static/JM.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Form{
+    background-color: aqua;
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    
+}
+
+.Input{
+    font-size: 25px;
+}
+
+.bod{
+    background-color: gray;
+}
+
+fieldset{
+    background-color: beige;
+}
+.Submit{
+    background-color: blue;
+}
